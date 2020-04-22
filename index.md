@@ -16,6 +16,7 @@ Before examining each program in its upgraded state, please take a moment to loo
 [4. Wrap Up & Outro](https://youtu.be/tXYA8rwRL7s?t=1708)<br/>
 
 ## Software Engineering
+The following is an intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/software narrative.htm)
 
 ## Data Structures & Algorithms
 
