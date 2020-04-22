@@ -1,0 +1,18 @@
+                                            My Professional Self-Assessment
+It has been a little over two years since beginning my path towards a Bachelor’s in Computer Science. Prior to enrolling for this degree, 
+I worked in customer service-oriented fields such as marketing and restaurants. Although I am currently still employed in a marketing 
+firm, my goal is to contribute to a more intellectually demanding field. The Computer Science industry caught my attention and pulled me 
+in because of its relevance and influence on modern life, the wholistic knowledge base necessary to succeed, and the continuous 
+advancements in knowledge and efficiency. Following this introduction is a group of three smaller projects that I had the opportunity to 
+work on in previous courses. The projects include:
+- a simple 3D model using Phong lighting, designed using OpenGL 
+- a conglomerate of scripts that showcase a few different data structures and how they can be used to manipulate information through 
+  the appropriate algorithms
+- a short CLI-based program that works with JSON objects using Python to implement the CRUD model on a NoSQL database (MongoDB). 
+  Through the different artifacts, you will be able to get an idea of my current technical abilities. The purpose of conducting three 
+different projects using two different languages was to showcase my willingness to stretch outside of my comfort zone. Although these 
+projects will show my intent for design, interest in the different fields, and security driven mindset, there are other points of my 
+education and current ability that are not present. 
+  Three key points that should be stated outside of these projects include my willingness to learn and adapt when faced with new ideas, 
+my ability to work in a group or as an individual, and my ability to communicate information efficiently through different mediums. These 
+three points are highly useful, transferable skills that will help propel my understanding and abilities when faced with difficulties.
