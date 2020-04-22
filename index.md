@@ -3,7 +3,7 @@
 For my final project for a Bachelor's in Computer Science, I have collected a series of smaller applications that showcase some of the different skills I have obtained through my time with the university.
 
 ### Self-Assessment
-Please take a moment to read this short, [professional self-assessment](MatthewModderman.github.io/Self-Assessment.htm). 
+Please take a moment to read this short, [professional self-assessment](MatthewModderman.github.io/Self-Assessment.html). 
 The assessment explains why I created this website and what I hope to show through the different applications. 
 
 ### Pre-Redesign Code Review
