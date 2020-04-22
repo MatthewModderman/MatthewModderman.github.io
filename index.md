@@ -1,4 +1,4 @@
-# Matthew's Computer Science Capstone
+## Matthew's Computer Science Capstone
 
 For my final project for a Bachelor's in Computer Science, I have collected a series of smaller applications that showcase some of the different skills I have obtained through my time with the university.
 
@@ -14,3 +14,9 @@ Before examining each program in its upgraded state, please take a moment to loo
 [2. Data Structures & Algorithms](https://youtu.be/tXYA8rwRL7s?t=956)</br>
 [3. NoSQL Database](https://youtu.be/tXYA8rwRL7s?t=1310)</br>
 [4. Wrap Up & Outro](https://youtu.be/tXYA8rwRL7s?t=1708)</br>
+
+## Software Engineering
+
+## Data Structures & Algorithms
+
+## NoSQL Database
