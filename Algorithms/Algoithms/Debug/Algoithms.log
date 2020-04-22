@@ -1,0 +1,5 @@
+﻿  AppMain.cpp
+D:\Coding\Programs\Algoithms\Algoithms\GlobalDefinitions.h(167,20): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\Programs\Algoithms\Algoithms\GlobalDefinitions.h(97): warning C4715: 'chooseBidKey': not all control paths return a value
+D:\Coding\Programs\Algoithms\Algoithms\LinkedList.h(176): warning C4715: 'LinkedList::Search': not all control paths return a value
+  Algoithms.vcxproj -> D:\Coding\Programs\Algoithms\Debug\Algoithms.exe
