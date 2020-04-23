@@ -19,7 +19,7 @@ Before examining each program in its upgraded state, please take a moment to loo
 An intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/SoftwareNarrative.html)
 
 ## Data Structures & Algorithms
-An intoduction to the Algorithms Project:[Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)
+An intoduction to the Algorithms Project: [Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)
 
 ## NoSQL Database
-An intoduction to the Database Project:[Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)
+An intoduction to the Database Project: [Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)
