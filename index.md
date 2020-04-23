@@ -7,7 +7,7 @@ It has been a little over two years since beginning my path towards a Bachelorâ€
 Following this introduction is a group of three smaller projects that I had the opportunity to work on in previous courses. The projects include:
 > A simple 3D model using Phong lighting, designed using OpenGL<br/> 
 > A conglomerate of scripts that showcase a few different data structures and how they can be used to manipulate information through the appropriate algorithms<br/>
-> A short CLI-based program that works with JSON objects using Python to implement the CRUD model on a NoSQL database (MongoDB).<br/><br/>
+> A short CLI-based program that works with JSON objects using Python to implement the CRUD model on a NoSQL database (MongoDB).<br/>
 
 Through the different artifacts, you will be able to get an idea of my current technical abilities. The purpose of conducting three different projects using two different languages was to showcase my willingness to stretch outside of my comfort zone. Although these projects will show my intent for design, interest in the different fields, and security driven mindset, there are other points of my education and current ability that are not present.<br/><br/>
 Three key points that should be stated outside of these projects include my willingness to learn and adapt when faced with new ideas, my ability to work in a group or as an individual, and my ability to communicate information efficiently through different mediums. These three points are highly useful, transferable skills that will help propel my understanding and abilities when faced with difficulties.
