@@ -39,3 +39,8 @@ When I first revisited this project, all of the work was saved on a third-party 
 Going back and reworking past projects helped to create mental connection on how every facet of computer design works together. The more I go back and rework these projects, the more I recognize their potential value in analyzing information for a business. By pulling the scripts and data from the third-party site and working on them locally, I was able to better understand the functionality and relationship between the CLI, MongoDB database, and Python scripts.<br/><br/>
 My biggest issue was getting everything to work on my system. Once I got all of the software and scripts set up properly, I had to remember the calls used for NoSQL to build up the project. What I found though, was that revisiting these ideas made it easier to research and apply concepts than it had been before.<br/><br/>
 [Click Here to View the Database Files](https://github.com/MatthewModderman/MatthewModderman.github.io/tree/master/Databases)
+
+## Conclusion
+When it comes to this field, I still have a great deal to learn. This industry and its study are growing so rapidly, it is impossible to keep up with all the breakthroughs and possibilies. My directive right now is to gain as much knowledge, understanding, and experience as possible so that it can be applied appropriately. I am excited to get started on the next step in my journey and hope to find both challenges and rewards. 
+
+Any feedback, criticisms, or directives are appreciated. My direct email is matthewmodderman@gmail.com. 
