@@ -5,7 +5,7 @@ For my final project for a Bachelor's in Computer Science, I have collected a se
 ### Self-Assessment
 It has been a little over two years since beginning my path towards a Bachelor’s in Computer Science. Prior to enrolling for this degree, I worked in customer service-oriented fields such as marketing and restaurants. Although I am currently still employed in a marketing firm, my goal is to contribute to a more intellectually demanding field. The Computer Science industry caught my attention and pulled me in because of its relevance and influence on modern life, the wholistic approach necessary to succeed, and the continuous advancements in efficiency.<br/><br/>
 Following this introduction is a group of three smaller projects that I had the opportunity to work on in previous courses. The projects include:
-* a simple 3D model using Phong lighting, designed using OpenGL<br/>
+* a simple 3D model using Phong lighting, designed using OpenGL<br/><br/>
 * a conglomerate of scripts that showcase a few different data structures and how they can be used to manipulate information through the appropriate algorithms<br/><br/> 
 * a short CLI-based program that works with JSON objects using Python to implement the CRUD model on a NoSQL database (MongoDB).<br/>
 
