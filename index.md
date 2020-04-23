@@ -43,5 +43,6 @@ My biggest issue was getting everything to work on my system. Once I got all of 
 ## Conclusion
 When it comes to this field, I still have a great deal to learn. This industry and its study are growing so rapidly, it is impossible to keep up with all the breakthroughs and possibilies. My directive right now is to gain as much knowledge, understanding, and experience as possible so that it can be applied appropriately. I am excited to get started on the next step in my journey and hope to find both challenges and rewards. <br/>
 
-Thank you for taking the time to read a bit about my background. <br/>
-Any feedback, criticisms, or direction are appreciated. My direct email is matthewmodderman@gmail.com. 
+Thank you for taking the time to read a bit about my background.<br/>
+Any feedback, criticisms, or direction are appreciated.<br/> 
+My direct email is matthewmodderman@gmail.com. 
