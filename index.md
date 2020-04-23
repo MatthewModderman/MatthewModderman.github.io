@@ -14,15 +14,15 @@ Before examining each program in its upgraded state, please take a moment to loo
 
 ## Software Engineering
 [1. Software Engineering Section of Pre-Redesign Code Review](https://youtu.be/tXYA8rwRL7s?t=335)<br/>
-Short written intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/SoftwareNarrative.html)
+Short written intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/SoftwareNarrative.html)<br/>
 Content: [Software Engineering Files](MatthewModderman.github.io/Algorithms/)
 
 ## Data Structures & Algorithms
 [2. Data Structures & Algorithms](https://youtu.be/tXYA8rwRL7s?t=956)<br/>
-Short written intoduction to the Algorithms Project: [Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)
+Short written intoduction to the Algorithms Project: [Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)<br/>
 Content: [Data Structures & Algorithms Files](MatthewModderman.github.io/Algorithms/)
 
 ## NoSQL Database
 [3. NoSQL Database](https://youtu.be/tXYA8rwRL7s?t=1310)<br/>
-Short written intoduction to the Database Project: [Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)
+Short written intoduction to the Database Project: [Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)<br/>
 Content: [Database Files](MatthewModderman.github.io/Algorithms/)
