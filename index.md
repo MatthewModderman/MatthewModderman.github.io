@@ -10,16 +10,19 @@ The assessment explains why I created this website and what I hope to show throu
 Before examining each program in its upgraded state, please take a moment to look at the [original code review](https://youtu.be/tXYA8rwRL7s). To make this more user-friendly, there are links to each of the main sections:<br/>
 
 [0. Intro & Explanation of Capstone](https://youtu.be/tXYA8rwRL7s?t=1)<br/>
-[1. Software Engineering](https://youtu.be/tXYA8rwRL7s?t=335)<br/>
-[2. Data Structures & Algorithms](https://youtu.be/tXYA8rwRL7s?t=956)<br/>
-[3. NoSQL Database](https://youtu.be/tXYA8rwRL7s?t=1310)<br/>
-[4. Wrap Up & Outro](https://youtu.be/tXYA8rwRL7s?t=1708)<br/>
+[4. Wrap Up of Complete Project](https://youtu.be/tXYA8rwRL7s?t=1708)<br/>
 
 ## Software Engineering
-An intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/SoftwareNarrative.html)
+[1. Software Engineering Section of Pre-Redesign Code Review](https://youtu.be/tXYA8rwRL7s?t=335)<br/>
+Short written intoduction to the Software Project: [Software Engineering Narrative](MatthewModderman.github.io/SoftwareNarrative.html)
+Content: [Software Engineering Files](MatthewModderman.github.io/Algorithms/)
 
 ## Data Structures & Algorithms
-An intoduction to the Algorithms Project: [Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)
+[2. Data Structures & Algorithms](https://youtu.be/tXYA8rwRL7s?t=956)<br/>
+Short written intoduction to the Algorithms Project: [Data Structures & Algorithms](MatthewModderman.github.io/AlgorithmNarrative.html)
+Content: [Data Structures & Algorithms Files](MatthewModderman.github.io/Algorithms/)
 
 ## NoSQL Database
-An intoduction to the Database Project: [Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)
+[3. NoSQL Database](https://youtu.be/tXYA8rwRL7s?t=1310)<br/>
+Short written intoduction to the Database Project: [Databases Narrative](MatthewModderman.github.io/DatabasesNarrative.html)
+Content: [Database Files](MatthewModderman.github.io/Algorithms/)
